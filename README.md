@@ -23,7 +23,7 @@
 
 
 
-####2.注意事项
+#### 2.注意事项
 
 ###### mobx启用装饰器语法：
 
@@ -47,7 +47,13 @@
 
 
 
+```jsx
+// 将字符串JSON格式化
+JSON.parse(responseData)
 
+// 将JSON数据转化为字符串
+JSON.stringify(responseData)
+```
 
 
 
