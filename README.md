@@ -31,7 +31,7 @@
 
 
 
-###### 进入项目根目录找到babel.config.js文件，添加`plugins: [ ["@babel/plugin-proposal-decorators", { "legacy": true }], ]
+###### 进入项目根目录找到babel.config.js文件，添加 `plugins: [ ["@babel/plugin-proposal-decorators", { "legacy": true }], ]`
 
 
 
