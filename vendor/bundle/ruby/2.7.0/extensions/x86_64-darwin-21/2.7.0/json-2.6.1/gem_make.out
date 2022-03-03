@@ -1,0 +1,13 @@
+current directory: /Users/yang/Desktop/ReactNativeDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/yang/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/yang/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220301-32132-lwcs8y.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yang/Desktop/ReactNativeDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/yang/Desktop/ReactNativeDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/yang/Desktop/ReactNativeDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
